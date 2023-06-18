@@ -334,10 +334,16 @@
 0
 
 
-0 Untitled Model
-0 Name:  UntitledModel
-0 Author:  
-0 CustomBrick
+0 FILE Steps.ldr
+0 Steps
+0 Name: Steps.ldr
+0 Author: Addy Parsons
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
 1 71 0.000000 -24.000000 10.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 3010.dat
 0 STEP
 1 71 0.000000 -48.000000 10.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 3010.dat
