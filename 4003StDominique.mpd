@@ -335,11 +335,11 @@
 
 
 
-0 FILE 4003 St Dominique.io
-0 Untitled Model
+0 4003 St Dominique.io
 0 Name:  4003StDominique.mpd
 0 Author:  Adam Parsons
-0 CustomBrick
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 0 NumOfBricks:  1317
 
 1 72 49.999840 -8.000000 -660.000600 0.000000 0.000000 1.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 3958.dat
