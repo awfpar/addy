@@ -332,7 +332,7 @@
 0 !COLOUR Electric_Contact_Alloy                                CODE 494   VALUE #D0D0D0   EDGE #333333                               METAL
 0 !COLOUR Electric_Contact_Copper                               CODE 495   VALUE #AE7A59   EDGE #333333                               METAL
 
-0 FILE StDomTest.ldr
+0 NOFILE
 0 Untitled Model
 0 Name:  4003 St Dominique
 0 Author:  Adam Parsons
